@@ -1,5 +1,5 @@
-#PineCone.net
-#Integrate Anything with Everything on your favorite backend engine.
+# PineCone.net
+# Integrate Anything with Everything on your favorite backend engine.
 
 One of the biggest challenges today’s businesses face is to create business processes that integrate with different moving parts running on different platforms.
 
