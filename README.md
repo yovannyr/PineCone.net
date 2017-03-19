@@ -17,4 +17,4 @@ PineCone.net aims to solve the limitations listed above. Key features are :-
 7. Currently it is shipped with AWS engine (SWF and DynamoDB) and MySQL engine.
 8. Plans to support other backends like SQL Server, Cassandra etc.
 
-### Please read PineCone.pdf for the deatiled documentation
+### Please read PineCone.pdf for the detailed documentation
